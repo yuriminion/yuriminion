@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffff99&height=150&section=header" alt="" />
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yuriminion)](https://velog.io/@yuriminion)<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yuriminion)](https://github.com/yuriminion/velog-readme-stats)<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffff99&height=150&section=footer" alt="" />
