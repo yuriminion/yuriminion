@@ -1,3 +1,5 @@
+<div align=''>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffff99&height=150&section=header&text=Yurim's%20Github&fontSize=40&fontAlign=80&fontAlignY=40&fontColor=ffffff" alt="" />
 
 ### Hi there 👋
@@ -20,3 +22,5 @@ Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yuriminion)](https://github.com/yuriminion/velog-readme-stats)<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffff99&height=150&section=footer" alt="" />
+
+</div>
