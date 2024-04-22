@@ -47,6 +47,6 @@
  ![yuriminion's github stats](https://github-readme-stats.vercel.app/api?username=yuriminion&show_icons=true&count_private=true&theme=vue)
   <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffff99&height=150&section=footer" alt="" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=ffff99&height=150&section=footer" alt="" /> -->
 
 </div>
